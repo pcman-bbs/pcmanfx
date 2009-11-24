@@ -17,5 +17,8 @@ Here are TODOs for this project
   * Popup menu, may provide "Search xxx".
   * Provide a quick option to change background color to white: just change termColors[current_bg] temporarily can do it.
   * Support blinking and underline
+  * Prevent idle
+  * Auto-reconnect
+  * Auto-login
   * L10N
   * Advertise
